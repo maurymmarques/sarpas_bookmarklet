@@ -41,6 +41,8 @@ Quando estiver na **Localização da Operação** (passo 3/4) ou no **Formulári
 
 - **em dispositivos móveis:** clique sobre a barra de endereços, procure pelo nome do seu favorito e clique sobre o mesmo.
 
+![Bookmarklet Demonstration](https://github.com/maurymmarques/sarpas_bookmarklet/raw/master/images/bookmarklet_demonstration.gif)
+
 # Links
 
 [DECEA](https://www.decea.mil.br/) (Departamento de Controle do Espaço Aéreo)
