@@ -4,7 +4,7 @@
 
 ---
 
-- **O objetivo desse bookmarklet é facilitar o preenchimento dos formulários SARPAS (DECEA) para solicitação de vôos.**
+- **O objetivo desse [bookmarklet](https://pt.wikipedia.org/wiki/Bookmarklet) é facilitar o preenchimento dos formulários SARPAS (DECEA) para solicitação de vôos.**
 - **Esse projeto NÃO visa burlar qualquer regra, muito menos isentar o solicitante de qualquer responsabilidade.**
 - **O solicitante do vôo sempre deverá ler todos os dados do formulário antes de enviar a solicitação para o SARPAS.**
  
@@ -26,7 +26,7 @@ Esse bookmarklet...
 ![Variables Screenshot](https://github.com/maurymmarques/sarpas_bookmarklet/raw/master/media/variables_screenshot.png)
 
 - Copie todo o conteúdo do arquivo editado.
-- No seu navegador, *favorite* um site qualquer (pode ser o [https://www.decea.mil.br](https://www.decea.mil.br/)).
+- No seu navegador, *favorite* um site qualquer (pode ser o [https://www.decea.mil.br](https://www.decea.mil.br)).
 - Agora edite esse favorito com o nome desejado (exemplo: "Formulário SARPAS"), e no campo URL cole todo o conteúdo copiado do editor. 
 
     É isso mesmo, você cola o código no lugar da URL e pronto! :)
@@ -45,6 +45,6 @@ Quando estiver na **Localização da Operação** (passo 3/4) ou no **Formulári
 
 # Links
 
-[DECEA](https://www.decea.mil.br/) (Departamento de Controle do Espaço Aéreo)
+[DECEA](https://www.decea.mil.br) (Departamento de Controle do Espaço Aéreo)
 
-[SARPAS](https://servicos.decea.mil.br/sarpas/) (Solicitação de Acesso de Aeronaves Remotamente Pilotadas)
+[SARPAS](https://servicos.decea.mil.br/sarpas) (Solicitação de Acesso de Aeronaves Remotamente Pilotadas)
