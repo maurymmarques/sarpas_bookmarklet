@@ -1,10 +1,11 @@
 **Note:** This is a bookmarklet to make filling out forms for drone flights in Brazil easier
 
-# ATENÇÃO
+**O objetivo desse [bookmarklet](https://pt.wikipedia.org/wiki/Bookmarklet) é facilitar o preenchimento dos formulários [SARPAS](https://servicos.decea.mil.br/sarpas) ([DECEA](https://www.decea.mil.br)) para solicitação de voos.**
+
+## ATENÇÃO
 
 ---
 
-- **O objetivo desse [bookmarklet](https://pt.wikipedia.org/wiki/Bookmarklet) é facilitar o preenchimento dos formulários [SARPAS](https://servicos.decea.mil.br/sarpas) ([DECEA](https://www.decea.mil.br)) para solicitação de voos.**
 - **Esse projeto NÃO visa burlar qualquer regra, muito menos isentar o solicitante de qualquer responsabilidade.**
 - **O solicitante do voo sempre deverá ler todos os dados do formulário antes de enviar a solicitação para o DECEA.**
 
@@ -19,7 +20,7 @@
 - irá preencher os dados de latitude e longitude (passo 3/4) com base na sua localização
 - irá preencher os dados do formulário (passo 4/4) com os dados do solicitante
 
-# Instalação
+## Instalação
 
 - Copie o conteúdo do arquivo [sarpas_bookmarklet.js](https://github.com/maurymmarques/sarpas_bookmarklet/blob/master/sarpas_bookmarklet.js) para um editor de texto qualquer (você pode usar o editor do GitHub clicando [aqui](https://github.com/maurymmarques/sarpas_bookmarklet/edit/master/sarpas_bookmarklet.js)).
 - Edite os dados das `Variáveis` de acordo com seus dados de voo.
@@ -34,7 +35,7 @@
 
 ![Bookmark Screenshot](https://github.com/maurymmarques/sarpas_bookmarklet/raw/master/media/bookmark_screenshot.png)
 
-# Como usar
+## Como usar
 
 - *Logado* no [SARPAS](https://servicos.decea.mil.br/sarpas), vá para a solicitação de voo. 
 - Escolha a Aeronave que será utilizada (passo 1/4)
@@ -46,7 +47,7 @@
 
 ![Bookmarklet Demonstration](https://github.com/maurymmarques/sarpas_bookmarklet/raw/master/media/bookmarklet_demonstration.gif)
 
-# Links
+## Links
 
 [DECEA](https://www.decea.mil.br) (Departamento de Controle do Espaço Aéreo)
 
