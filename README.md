@@ -5,7 +5,7 @@
 **Esse bookmarklet...**
 
 - pode ser usado em desktops ou dispositivos móveis (não testei no iOS)
-- irá preencher os dados de latitude e longitude (passo 3/4) com base na sua localização
+- irá preencher os dados de latitude e longitude (passo 3/4) com base na sua localização atual
 - irá preencher os dados do formulário (passo 4/4) com os dados do solicitante
 
 ## ATENÇÃO
