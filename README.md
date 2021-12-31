@@ -2,6 +2,12 @@
 
 **O objetivo desse [bookmarklet](https://pt.wikipedia.org/wiki/Bookmarklet) é facilitar o preenchimento dos formulários [SARPAS](https://servicos.decea.mil.br/sarpas) ([DECEA](https://www.decea.mil.br)) para solicitação de voos.**
 
+**Esse bookmarklet...**
+
+- pode ser usado em desktops ou dispositivos móveis (não testei no iOS)
+- irá preencher os dados de latitude e longitude (passo 3/4) com base na sua localização
+- irá preencher os dados do formulário (passo 4/4) com os dados do solicitante
+
 ## ATENÇÃO
 
 ---
@@ -12,13 +18,6 @@
 **Siga todas as normas de segurança, faça um voo consciente e responsável.**
 
 ---
-    
-
-**Esse bookmarklet...**
-
-- pode ser usado em desktops ou dispositivos móveis (não testei no iOS)
-- irá preencher os dados de latitude e longitude (passo 3/4) com base na sua localização
-- irá preencher os dados do formulário (passo 4/4) com os dados do solicitante
 
 ## Instalação
 
