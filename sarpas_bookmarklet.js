@@ -4,10 +4,10 @@ javascript: (
     /* @author Maury M. Marques */
     function() {
         /* ----- Variáveis - Alterar esses valores ----- */
-        var nome = 'Nome do Operador';           /* Nome do Operador */
-        var telefone = '(99) 99999-9999';        /* Telefone do Operador - Formato (99) 99999-9999 */
-        var minutos_para_iniciar = 5;            /* Minutos para iniciar o voo a partir de agora (Janela Inicial) */
-        var tempo_de_voo_em_minutos = 45;        /* Tempo de voo em minutos (Janela Final) */
+        var nome = 'Fulano da Silva';            /* Nome do Operador */
+        var telefone = '(00) 00000-0000';        /* Telefone do Operador - Formato (99) 99999-9999 */
+        var minutos_para_iniciar = 15;           /* Minutos para iniciar o voo a partir de agora (Janela Inicial) */
+        var tempo_de_voo_em_minutos = 35;        /* Tempo de voo em minutos (Janela Final) */
         var raio_em_metros = '200';              /* Raio em metros (máximo 200 metros) */
         var altura_ou_altitude = 'Altitude';     /* Opções: 'Altura'/'Altitude' (não precisa alterar) */
         var valor_da_altura_ou_altitude = '131'; /* Valor da Altura ou Altitude - Valor em pés (máximo 131 pés - cerca de 40 metros) */
