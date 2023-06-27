@@ -1,5 +1,7 @@
 **Note:** This is a bookmarklet to make filling out forms for drone flights in Brazil easier
 
+**Nota:** Este projeto foi descontinuado porque o sistema do SARPAS foi atualizado
+
 **O objetivo desse [bookmarklet](https://pt.wikipedia.org/wiki/Bookmarklet) é facilitar o preenchimento dos formulários [SARPAS](https://servicos.decea.mil.br/sarpas) ([DECEA](https://www.decea.mil.br)) para solicitação de voos.**
 
 **Esse bookmarklet...**
@@ -36,11 +38,11 @@
 
 ## Como usar
 
-- *Logado* no [SARPAS](https://servicos.decea.mil.br/sarpas), vá para a solicitação de voo. 
+- *Logado* no [SARPAS](https://servicos.decea.mil.br/sarpas), vá para a solicitação de voo.
 - Escolha a Aeronave que será utilizada (passo 1/4)
 - Escolha o Tipo de Operação (passo 2/4)
 - Quando estiver em **Localização da Operação** (passo 3/4) e em **Formulário da Operação** (passo 4/4)...
-    
+
     - **no desktop:** apenas clique sobre o favorito.
     - **em dispositivos móveis:** clique sobre a barra de endereços, procure pelo nome do seu favorito e clique sobre o mesmo.
 
